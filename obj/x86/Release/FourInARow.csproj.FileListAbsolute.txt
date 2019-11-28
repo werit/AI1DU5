@@ -1,0 +1,28 @@
+C:\Documents and Settings\Ota\Dokumenty\Visual Studio 2010\Projects\FourInARow\bin\Release\FourInARow.exe
+C:\Documents and Settings\Ota\Dokumenty\Visual Studio 2010\Projects\FourInARow\bin\Release\FourInARow.pdb
+C:\Documents and Settings\Ota\Dokumenty\Visual Studio 2010\Projects\FourInARow\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ota\Dokumenty\Visual Studio 2010\Projects\FourInARow\obj\x86\Release\FourInARow.Form1.resources
+C:\Documents and Settings\Ota\Dokumenty\Visual Studio 2010\Projects\FourInARow\obj\x86\Release\FourInARow.Properties.Resources.resources
+C:\Documents and Settings\Ota\Dokumenty\Visual Studio 2010\Projects\FourInARow\obj\x86\Release\FourInARow.StartGame.resources
+C:\Documents and Settings\Ota\Dokumenty\Visual Studio 2010\Projects\FourInARow\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Ota\Dokumenty\Visual Studio 2010\Projects\FourInARow\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Ota\Dokumenty\Visual Studio 2010\Projects\FourInARow\obj\x86\Release\FourInARow.exe
+C:\Documents and Settings\Ota\Dokumenty\Visual Studio 2010\Projects\FourInARow\obj\x86\Release\FourInARow.pdb
+C:\Users\Ota\Documents\Visual Studio 2013\Projects\FourInARow\obj\x86\Release\FourInARow.exe
+C:\Users\Ota\Documents\Visual Studio 2013\Projects\FourInARow\obj\x86\Release\FourInARow.pdb
+C:\Users\Ota\Documents\Visual Studio 2013\Projects\FourInARow\bin\Release\FourInARow.exe
+C:\Users\Ota\Documents\Visual Studio 2013\Projects\FourInARow\bin\Release\FourInARow.pdb
+C:\Users\Ota\Documents\Visual Studio 2013\Projects\FourInARow\obj\x86\Release\FourInARow.Form1.resources
+C:\Users\Ota\Documents\Visual Studio 2013\Projects\FourInARow\obj\x86\Release\FourInARow.Properties.Resources.resources
+C:\Users\Ota\Documents\Visual Studio 2013\Projects\FourInARow\obj\x86\Release\FourInARow.StartGame.resources
+C:\Users\Ota\Documents\Visual Studio 2013\Projects\FourInARow\obj\x86\Release\FourInARow.csproj.GenerateResource.Cache
+C:\Users\Trunda_Otakar\Desktop\skola\cvikoUI1\FourInARow\bin\Release\FourInARow.exe
+C:\Users\Trunda_Otakar\Desktop\skola\cvikoUI1\FourInARow\bin\Release\FourInARow.pdb
+C:\Users\Trunda_Otakar\Desktop\skola\cvikoUI1\FourInARow\obj\x86\Release\FourInARow.csprojResolveAssemblyReference.cache
+C:\Users\Trunda_Otakar\Desktop\skola\cvikoUI1\FourInARow\obj\x86\Release\FourInARow.Form1.resources
+C:\Users\Trunda_Otakar\Desktop\skola\cvikoUI1\FourInARow\obj\x86\Release\FourInARow.Properties.Resources.resources
+C:\Users\Trunda_Otakar\Desktop\skola\cvikoUI1\FourInARow\obj\x86\Release\FourInARow.StartGame.resources
+C:\Users\Trunda_Otakar\Desktop\skola\cvikoUI1\FourInARow\obj\x86\Release\FourInARow.csproj.GenerateResource.Cache
+C:\Users\Trunda_Otakar\Desktop\skola\cvikoUI1\FourInARow\obj\x86\Release\FourInARow.csproj.CoreCompileInputs.cache
+C:\Users\Trunda_Otakar\Desktop\skola\cvikoUI1\FourInARow\obj\x86\Release\FourInARow.exe
+C:\Users\Trunda_Otakar\Desktop\skola\cvikoUI1\FourInARow\obj\x86\Release\FourInARow.pdb

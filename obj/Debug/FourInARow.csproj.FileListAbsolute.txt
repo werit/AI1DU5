@@ -1,0 +1,11 @@
+D:\z plochy\Ostatní\cviko\cvikoUI1\FourInARow\bin\Debug\FourInARow.exe
+D:\z plochy\Ostatní\cviko\cvikoUI1\FourInARow\bin\Debug\FourInARow.pdb
+D:\z plochy\Ostatní\cviko\cvikoUI1\FourInARow\obj\Debug\FourInARow.csprojAssemblyReference.cache
+D:\z plochy\Ostatní\cviko\cvikoUI1\FourInARow\obj\Debug\FourInARow.Form1.resources
+D:\z plochy\Ostatní\cviko\cvikoUI1\FourInARow\obj\Debug\FourInARow.Properties.Resources.resources
+D:\z plochy\Ostatní\cviko\cvikoUI1\FourInARow\obj\Debug\FourInARow.StartGame.resources
+D:\z plochy\Ostatní\cviko\cvikoUI1\FourInARow\obj\Debug\FourInARow.csproj.GenerateResource.cache
+D:\z plochy\Ostatní\cviko\cvikoUI1\FourInARow\obj\Debug\FourInARow.csproj.CoreCompileInputs.cache
+D:\z plochy\Ostatní\cviko\cvikoUI1\FourInARow\obj\Debug\FourInARow.exe
+D:\z plochy\Ostatní\cviko\cvikoUI1\FourInARow\obj\Debug\FourInARow.pdb
+D:\z plochy\Ostatní\cviko\cvikoUI1\FourInARow\bin\Debug\FourInARow.exe.config

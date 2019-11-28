@@ -1,0 +1,39 @@
+c:\documents and settings\ota\dokumenty\visual studio 2010\Projects\FourInARow\bin\Debug\FourInARow.exe
+c:\documents and settings\ota\dokumenty\visual studio 2010\Projects\FourInARow\bin\Debug\FourInARow.pdb
+c:\documents and settings\ota\dokumenty\visual studio 2010\Projects\FourInARow\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\ota\dokumenty\visual studio 2010\Projects\FourInARow\obj\x86\Debug\FourInARow.Form1.resources
+c:\documents and settings\ota\dokumenty\visual studio 2010\Projects\FourInARow\obj\x86\Debug\FourInARow.Properties.Resources.resources
+c:\documents and settings\ota\dokumenty\visual studio 2010\Projects\FourInARow\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\ota\dokumenty\visual studio 2010\Projects\FourInARow\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\ota\dokumenty\visual studio 2010\Projects\FourInARow\obj\x86\Debug\FourInARow.exe
+c:\documents and settings\ota\dokumenty\visual studio 2010\Projects\FourInARow\obj\x86\Debug\FourInARow.pdb
+C:\Documents and Settings\Ota\Dokumenty\Visual Studio 2010\Projects\FourInARow\obj\x86\Debug\FourInARow.StartGame.resources
+C:\Users\Ota\Documents\Visual Studio 2013\Projects\FourInARow\obj\x86\Debug\FourInARow.exe
+C:\Users\Ota\Documents\Visual Studio 2013\Projects\FourInARow\obj\x86\Debug\FourInARow.pdb
+C:\Users\Ota\Documents\Visual Studio 2013\Projects\FourInARow\bin\Debug\FourInARow.exe
+C:\Users\Ota\Documents\Visual Studio 2013\Projects\FourInARow\bin\Debug\FourInARow.pdb
+C:\Users\Ota\Documents\Visual Studio 2013\Projects\FourInARow\obj\x86\Debug\FourInARow.csprojResolveAssemblyReference.cache
+C:\Users\Ota\Documents\Visual Studio 2013\Projects\FourInARow\obj\x86\Debug\FourInARow.Form1.resources
+C:\Users\Ota\Documents\Visual Studio 2013\Projects\FourInARow\obj\x86\Debug\FourInARow.Properties.Resources.resources
+C:\Users\Ota\Documents\Visual Studio 2013\Projects\FourInARow\obj\x86\Debug\FourInARow.StartGame.resources
+C:\Users\Ota\Documents\Visual Studio 2013\Projects\FourInARow\obj\x86\Debug\FourInARow.csproj.GenerateResource.Cache
+C:\Users\Trunda_Otakar\Desktop\skola\cvikoUI1\FourInARow\bin\Debug\FourInARow.exe
+C:\Users\Trunda_Otakar\Desktop\skola\cvikoUI1\FourInARow\bin\Debug\FourInARow.pdb
+C:\Users\Trunda_Otakar\Desktop\skola\cvikoUI1\FourInARow\obj\x86\Debug\FourInARow.csprojResolveAssemblyReference.cache
+C:\Users\Trunda_Otakar\Desktop\skola\cvikoUI1\FourInARow\obj\x86\Debug\FourInARow.Form1.resources
+C:\Users\Trunda_Otakar\Desktop\skola\cvikoUI1\FourInARow\obj\x86\Debug\FourInARow.Properties.Resources.resources
+C:\Users\Trunda_Otakar\Desktop\skola\cvikoUI1\FourInARow\obj\x86\Debug\FourInARow.StartGame.resources
+C:\Users\Trunda_Otakar\Desktop\skola\cvikoUI1\FourInARow\obj\x86\Debug\FourInARow.csproj.GenerateResource.Cache
+C:\Users\Trunda_Otakar\Desktop\skola\cvikoUI1\FourInARow\obj\x86\Debug\FourInARow.csproj.CoreCompileInputs.cache
+C:\Users\Trunda_Otakar\Desktop\skola\cvikoUI1\FourInARow\obj\x86\Debug\FourInARow.exe
+C:\Users\Trunda_Otakar\Desktop\skola\cvikoUI1\FourInARow\obj\x86\Debug\FourInARow.pdb
+D:\z plochy\Ostatní\cviko\cvikoUI1\FourInARow\bin\Debug\FourInARow.exe
+D:\z plochy\Ostatní\cviko\cvikoUI1\FourInARow\bin\Debug\FourInARow.pdb
+D:\z plochy\Ostatní\cviko\cvikoUI1\FourInARow\obj\x86\Debug\FourInARow.csprojAssemblyReference.cache
+D:\z plochy\Ostatní\cviko\cvikoUI1\FourInARow\obj\x86\Debug\FourInARow.Form1.resources
+D:\z plochy\Ostatní\cviko\cvikoUI1\FourInARow\obj\x86\Debug\FourInARow.Properties.Resources.resources
+D:\z plochy\Ostatní\cviko\cvikoUI1\FourInARow\obj\x86\Debug\FourInARow.StartGame.resources
+D:\z plochy\Ostatní\cviko\cvikoUI1\FourInARow\obj\x86\Debug\FourInARow.csproj.GenerateResource.cache
+D:\z plochy\Ostatní\cviko\cvikoUI1\FourInARow\obj\x86\Debug\FourInARow.csproj.CoreCompileInputs.cache
+D:\z plochy\Ostatní\cviko\cvikoUI1\FourInARow\obj\x86\Debug\FourInARow.exe
+D:\z plochy\Ostatní\cviko\cvikoUI1\FourInARow\obj\x86\Debug\FourInARow.pdb
