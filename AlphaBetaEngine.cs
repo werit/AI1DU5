@@ -8,7 +8,7 @@ namespace FourInARow
     class AlphaBetaEngine : Player
     {
         private int depth;
-        private Game g;
+        protected Game g;
         private bool isFirstPlayer;
 
         public override int selectMove()
@@ -73,7 +73,8 @@ namespace FourInARow
         }
 
         public static int[] getTripletsCount(Game g)
-        {
+        {// TODO mozes rozsirit aj o quint essence search... prehladanie horizontu
+            // todo look for fourth free slot
             int[] triplets = new int[2];
             for (int s = 0; s < 2; s++)
             {
@@ -157,7 +158,7 @@ namespace FourInARow
                 possitionBonuses[0] - possitionBonuses[1];
         }
 
-        private int abSearchMax(int depth, int alpha, int beta)
+        protected virtual int abSearchMax(int depth, int alpha, int beta)
         {
             if (g.hasFinished)
             {
@@ -196,7 +197,7 @@ namespace FourInARow
             return bestValue;
         }
 
-        private int abSearchMin(int depth, int alpha, int beta)
+        protected virtual int abSearchMin(int depth, int alpha, int beta)
         {
             if (g.hasFinished)
             {
