@@ -74,6 +74,7 @@
     <Compile Include="AlphaBetaEngine.cs" />
     <Compile Include="AlphaBetaExperimentalEngine.cs" />
     <Compile Include="Drawer.cs" />
+    <Compile Include="Dtos\LastTwoGamesEvaluationDto.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>

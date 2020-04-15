@@ -7,9 +7,9 @@ namespace FourInARow
 {
     class AlphaBetaEngine : Player
     {
-        private int depth;
+        protected int depth;
         protected Game g;
-        private bool isFirstPlayer;
+        protected bool isFirstPlayer;
 
         public override int selectMove()
         {
@@ -50,7 +50,7 @@ namespace FourInARow
             }
         }
 
-        private int checkWinningMoves()
+        protected int checkWinningMoves()
         {
             int result = -1;
             List<int> moves = new List<int>(g.possibleMoves);
@@ -166,7 +166,7 @@ namespace FourInARow
                 {
                     case true:
                         return 1000 + depth;
-                    case false: 
+                    case false:
                         return -1000 - depth;
                     case null:
                         return 0;
@@ -240,7 +240,7 @@ namespace FourInARow
         {
             g.playMove(isFirstPlayer == isThisPlayer, column);
         }
-         
+
         public override string getName()
         {
             return "Alpha Beta engine, depth " + depth;

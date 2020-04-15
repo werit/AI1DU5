@@ -20,3 +20,13 @@ C:\Users\Werit\Desktop\Current work\2019-2020\AI1\DU\DU5\FourInARow\obj\Debug\Fo
 C:\Users\Werit\Desktop\Current work\2019-2020\AI1\DU\DU5\FourInARow\obj\Debug\FourInARow.csproj.CoreCompileInputs.cache
 C:\Users\Werit\Desktop\Current work\2019-2020\AI1\DU\DU5\FourInARow\obj\Debug\FourInARow.exe
 C:\Users\Werit\Desktop\Current work\2019-2020\AI1\DU\DU5\FourInARow\obj\Debug\FourInARow.pdb
+C:\Users\werit\sources\repos\AI1DU\AI1DU5\bin\Debug\FourInARow.exe.config
+C:\Users\werit\sources\repos\AI1DU\AI1DU5\bin\Debug\FourInARow.exe
+C:\Users\werit\sources\repos\AI1DU\AI1DU5\bin\Debug\FourInARow.pdb
+C:\Users\werit\sources\repos\AI1DU\AI1DU5\obj\Debug\FourInARow.csprojResolveAssemblyReference.cache
+C:\Users\werit\sources\repos\AI1DU\AI1DU5\obj\Debug\FourInARow.Form1.resources
+C:\Users\werit\sources\repos\AI1DU\AI1DU5\obj\Debug\FourInARow.Properties.Resources.resources
+C:\Users\werit\sources\repos\AI1DU\AI1DU5\obj\Debug\FourInARow.StartGame.resources
+C:\Users\werit\sources\repos\AI1DU\AI1DU5\obj\Debug\FourInARow.csproj.GenerateResource.Cache
+C:\Users\werit\sources\repos\AI1DU\AI1DU5\obj\Debug\FourInARow.exe
+C:\Users\werit\sources\repos\AI1DU\AI1DU5\obj\Debug\FourInARow.pdb
